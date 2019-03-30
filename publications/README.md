@@ -10,5 +10,5 @@ Twitter
  - https://twitter.com/davidgokhshtein/status/1108110904330240000
  - https://twitter.com/gokhshtein/status/1108352766580310017
 
-Teaser
+Article and Interview as PDF 
  - [BitShares Severly Underrated?](general/BitShares%20Severly%20Underrated%3F%20-%20Gokhshtein.pdf)
