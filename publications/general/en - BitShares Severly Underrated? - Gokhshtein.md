@@ -468,6 +468,8 @@ blockchain by creating keys that only allow the intended use case.
 
 ## 45 PUBLICLY APPROVED BITSHARES REPRESENTATIVE
 
+## 46
+
 The distributed governance may
 result in certain aspects not being
 continuously tended to, which is a
