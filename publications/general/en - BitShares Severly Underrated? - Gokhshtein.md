@@ -1,5 +1,6 @@
-# BitShares - Severly Underrated?
+# 1 BitShares - Severly Underrated?
 
+## 2
 Since the inception of BitShares in 2013, it has quietly
 been a major innovator in blockchain technology. But for
 the laymen and beginner in this sector, it is quite a lot to
@@ -15,10 +16,9 @@ concise overview of exactly what BitShares is, a little about
 their history, and what they stand for as a community as a
 whole.
 
-# BACKGROUND
+# 3 BACKGROUND
 
-## 1
-
+## 4
 So, traditionally companies run with a lot of human
 management, after all, people need to be there to oversee
 exactly what’s happening right? Well with the creation
@@ -37,7 +37,7 @@ a few people? It’s not, hence the word “distributed”. Since
 it is open source it can be spread across all of the token
 holder’s computers.
 
-## 2
+## 5
 
 In the original whitepaper put together by Daniel
 Larimer, Stan Larimer, Charles Hoskinson and
@@ -49,9 +49,9 @@ introduce this in a decentralized manner with a
 peer-to-peer network to “efficiently facilitate the
 transaction of value”.
 
-# SO ... THAT’S NICE. HOW DOES IT WORK THOUGH?
+# 6 SO ... THAT’S NICE. HOW DOES IT WORK THOUGH?
 
-## 1
+## 7
 
 Not very difficult to understand if explained
 correctly. I will attempt to do this, and if something
@@ -59,7 +59,7 @@ is over your head always feel free to consult the
 BitShares community directly as well as our own
 community if you need questions answered.
 
-## 2
+## 8
 
 BitShares employs DPOS or Delegated Proof-
 of-Stake. What this does, among other things,
@@ -81,9 +81,9 @@ concentrating in the hands of those with the most
 resources”. So, the fundamental outcome is that
 the core token holders remain in control.
 
-# BREAKING DOWN THE “VOTING SYSTEM”
+# 9 BREAKING DOWN THE “VOTING SYSTEM”
 
-## 1
+## 10
 
 So, to keep things a little organized the representatives
 are not randomly selected from the total pool of users
@@ -98,7 +98,7 @@ voted off, and eventually others will get their turn. Incentive
 is paid as a small amount to them directly for having 99%
 uptime.
 
-## 2
+## 11
 
 Confused yet? Yeah me too. However, I think the best way
 to tell you how this works is to simply state that in a DPOS
@@ -113,9 +113,9 @@ producers” by a stake-vote making it fairer and round-robin
 so everyone can have a fair chance, rather than just those
 with the fanciest mining equipment.
 
-# THE AVERAGE STAKE-HOLDER
+# 12 THE AVERAGE STAKE-HOLDER
 
-## 1
+## 13
 
 The BitShares Blockchain features a built-in
 decentralized exchange (DEX) for all tokens
@@ -136,7 +136,7 @@ for what they propose to do like innovating the
 BitShares network as well as marketers that are
 paid in referral fees.
 
-## 2
+## 14
 
 Even with all of these roles, those that are simply
 just wanting to use the DEX are still considered
@@ -160,8 +160,9 @@ order to get to this “ah-ha” moment you have
 to effectively explain all of these aspects of what
 they are and do individually.
 
-# IN CLOSING...
+# 15 IN CLOSING...
 
+## 16
 If you are looking for more information on how to become
 a role-playing “witness” in the BitShares community they
 have very extensive documentation and I would like to
@@ -184,11 +185,11 @@ we do in many different industries in years to come. Hats
 off to the BitShares community and those developing it,
 truly the most underrated tech in the blockchain field.
 
-# INTERVIEW WITH STEFAN & FABIAN
+# 17 INTERVIEW WITH STEFAN & FABIAN
 
-## SO JUST TO START THINGS OFF, IS IT POSSIBLE TO TELL US EXACTLY WHAT ROLE YOU PLAY AT BITSHARES CONSIDERING THERE ARE DIFFERENT CONTRIBUTION LEVELS IN THE HIERARCHY OR THE “ROLE” YOU PLAY?
+## 18 SO JUST TO START THINGS OFF, IS IT POSSIBLE TO TELL US EXACTLY WHAT ROLE YOU PLAY AT BITSHARES CONSIDERING THERE ARE DIFFERENT CONTRIBUTION LEVELS IN THE HIERARCHY OR THE “ROLE” YOU PLAY?
 
-### Stefan:
+### 19 Stefan:
 
 I am a senior developer at Blockchain Projects B.V. in the
 Netherlands and an active member of the BitShares community.
@@ -205,7 +206,7 @@ fees for anyone that uses the Blockchain. After all, conducting
 and publishing this interview is also funded by such a worker
 proposal.
 
-### FABIAN (a.k.a. @xeroc):
+### 20 FABIAN (a.k.a. @xeroc):
 
 Being part of the BitShares community since its inception, I
 play multiple roles. Most prominently, I am the developer of
@@ -221,9 +222,9 @@ Since late 2015, I am full-time in the blockchain space and have
 founded multiple companies and am now the CTO of of the
 joint venture Blockchain Projects B.V.
 
-## WHEN DID YOU ORIGINALLY GET INVOLVED WITH BITSHARES? HOW ABOUT WITH BLOCKCHAIN TECH IN GENERAL? I FIND A LOT OF PEOPLE HAD NO PRIOR BACKGROUND IN A TECHNOLOGY FIELD AND EITHER ADAPTED OR INNOVATED THE SPACE IN THEIR OWN LIKING, IS THIS HOW YOU SEE YOUR STORY AS WELL?
+## 21 WHEN DID YOU ORIGINALLY GET INVOLVED WITH BITSHARES? HOW ABOUT WITH BLOCKCHAIN TECH IN GENERAL? I FIND A LOT OF PEOPLE HAD NO PRIOR BACKGROUND IN A TECHNOLOGY FIELD AND EITHER ADAPTED OR INNOVATED THE SPACE IN THEIR OWN LIKING, IS THIS HOW YOU SEE YOUR STORY AS WELL?
 
-### Stefan:
+### 22 Stefan:
 
 I got into blockchain tech in September 2017 when
 I started working at Blockchain Projects BV, and I
@@ -234,7 +235,7 @@ Fabian Schuh (@xeroc, and my mentor) on the other
 hand is measured in the age of the Blockchain, a
 grandpa in the field. See his introduction below.
 
-### Fabian:
+### 23 Fabian:
 
 I am an entrepreneur and fervent Blockchain advocate
 who came in contact with crypto currencies in early
@@ -252,7 +253,9 @@ in Blockchain Projects B.V. (Netherlands) to focus on
 development and advocating the advancement of
 Blockchain technologies in Europe on a larger scale.
 
-## SO, AFTER DOING RESEARCH ON HOW MANY PEOPLE (WITNESSES) ARE IN CHARGE OF SECURING THE NETWORK, THE MINIMUM NUMBER IS 11? IS THIS STILL TRUE AND IS THERE A TECHNICAL OR LOGICAL EXPLANATION BY THAT SPECIFIC NUMBER?
+## 24 SO, AFTER DOING RESEARCH ON HOW MANY PEOPLE (WITNESSES) ARE IN CHARGE OF SECURING THE NETWORK, THE MINIMUM NUMBER IS 11? IS THIS STILL TRUE AND IS THERE A TECHNICAL OR LOGICAL EXPLANATION BY THAT SPECIFIC NUMBER?
+
+## 25
 
 The BitShares Blockchain is secured by block producers
 (witnesses) that do exactly that (produce blocks). The
@@ -272,7 +275,9 @@ the ordering of block producers is shuffled. Additionally,
 block producers can be voted out by BTS voters (and
 proxies) within less than 1 hour.
 
-## WITH BITSHARES 2.0, DOCUMENTATION STATES THAT “AS AN EXCHANGE YOU DON’T NEED TO EVER DEAL WITH ADDRESSES AGAIN”, I UNDERSTAND THE TECH BEHIND THIS, BUT IS THIS SOMETHING OTHER EXCHANGES BOTH DEX AND CENTRALIZED WILL BE ABLE TO UTILIZE? IS THIS BTS SPECIFIC AND HAVE ANY ENTITIES EXPRESSED INTEREST IN THIS? 
+## 26 WITH BITSHARES 2.0, DOCUMENTATION STATES THAT “AS AN EXCHANGE YOU DON’T NEED TO EVER DEAL WITH ADDRESSES AGAIN”, I UNDERSTAND THE TECH BEHIND THIS, BUT IS THIS SOMETHING OTHER EXCHANGES BOTH DEX AND CENTRALIZED WILL BE ABLE TO UTILIZE? IS THIS BTS SPECIFIC AND HAVE ANY ENTITIES EXPRESSED INTEREST IN THIS? 
+
+## 27 
 
 This is a feature of blockchains based on the Graphene
 technology. Opinions here may vary since Graphene
@@ -292,9 +297,9 @@ BitShares Blockchain. Imagine withdrawing BTS from a
 CEX into your own wallet. You simply enter the account
 name in the CEX as the target.
 
-## THE BITSHARES COMMUNITY DEVELOPS AND DESIGNS YOUR TRADING PLATFORM, ARE YOU PERSONALLY HAPPY WITH IT, AND ARE THERE PLANS FOR ANY MAJOR CHANGES OR ADDITIONS IN THE NEAR FUTURE WE CAN LOOK FORWARD TO?
+## 28 THE BITSHARES COMMUNITY DEVELOPS AND DESIGNS YOUR TRADING PLATFORM, ARE YOU PERSONALLY HAPPY WITH IT, AND ARE THERE PLANS FOR ANY MAJOR CHANGES OR ADDITIONS IN THE NEAR FUTURE WE CAN LOOK FORWARD TO?
 
-### 1
+### 29
 
 I am personally not an active trader, and as such it is hard
 for me answer that properly. Considering the frontend and
@@ -312,7 +317,7 @@ and was throughout driven by the community. It is meant as a
 reference to show the possibilities to invite businesses to build
 on the BitShares Blockchain as a decentralized platform.
 
-### 2
+### 30
 
 Considering the general advancement of the BitShares
 Blockchain there has been vast progress lately. The community
@@ -329,9 +334,9 @@ This represents 2% of the current market cap of the BitShares
 Blockchain, which is astounding for a fully autonomous and
 decentralized community.
 
-# Here is an overview of current projects:
+# 31 Here is an overview of current projects:
 
-## BITSHARES COMMUNITY WALLET
+## 32 BITSHARES COMMUNITY WALLET
 
 The community wallet is an open-source and fully
 responsive web frontend whose goal is to provide
@@ -339,14 +344,14 @@ a user friendly and trader targeted experience
 for interaction with the DEX of the BitShares
 Blockchain.
 
-## ROSSUL/GRAPHENE LABS TEAM - BITSHARES EXCHANGE UX/UI REDESIGN PROJECT
+## 33 ROSSUL/GRAPHENE LABS TEAM - BITSHARES EXCHANGE UX/UI REDESIGN PROJECT
 
 The BitShares UI has been designed in 2014
 and was driven by functionality. This worker
 will provide a redesign that is focused on user
 experience.
 
-## THE BITSHARES UI MAINTENANCE TEAM & BEET - YOUR BLOCKCHAIN COMPANION
+## 34 THE BITSHARES UI MAINTENANCE TEAM & BEET - YOUR BLOCKCHAIN COMPANION
 
 The BitShares UI (aka Reference UI) is constantly
 being developed, bugs removed and new features
@@ -370,7 +375,7 @@ of each). In combination with the Hashed Time-
 Locked Contracts (HTLC), Beet will allow easy-to-
 use atomic cross chain swaps of tokens.
 
-## BITSHARES MOBILE APP
+## 35 BITSHARES MOBILE APP
 
 Mobile phones have become an indispensable part of people’s
 lives, and people are used to handling various things through
@@ -381,7 +386,7 @@ with good experience and complete functions is urgently needed
 in the market. This work implements an open source mobile
 wallet with native support for Android and iOS (pending).
 
-## DEXBOT
+## 36 DEXBOT
 
 Liquidity – the ability to easily buy and sell an asset at a fair
 price – is an important marker for any exchange. By the adding
@@ -397,7 +402,7 @@ fees. Better spreads, increased liquidity, and communication
 with potential power-users of DEXBot will help the BitShares DEX
 attract more tokens and users.
 
-## BITSHARES CORE DEVELOPMENT TEAM
+## 37 BITSHARES CORE DEVELOPMENT TEAM
 
 The BitShares Core (backend) contains all operations that
 represent the possible interactions with the BitShares Blockchain.
@@ -412,9 +417,9 @@ can only be one chain after the protocol upgrade. All consensus
 changes require the approval of the BTS holders by means of
 voting. Current consensus changes are listed below (BSIPs).
 
-# BITSHARES IMPROVEMENT PROPOSALS (BSIP)
+# 38 BITSHARES IMPROVEMENT PROPOSALS (BSIP)
 
-## Market Fee Sharing
+## 39 Market Fee Sharing
 
 The BitShares Blockchain employs a fixed network fee for its users for
 every interaction with the blockchain. Those fees are shared with the
@@ -423,7 +428,7 @@ incentive for webmasters to refer to the BitShares Blockchain, market fees
 are collected through trading on the DEX of the BitShares Blockchain. This
 is an important step to enhance adoption.
 
-## Hashed Time-Locked Contracts (HTLC)
+## 40 Hashed Time-Locked Contracts (HTLC)
 
 The ability to securely hold tokenized assets within a hashed time-locked
 contract on the BitShares blockchain is a desirable feature that could be
@@ -438,9 +443,9 @@ BitShares consensus protocol. This is the first step towards cross-chain
 atomic swaps, which are essential for a decentralized exchange to allow
 trading of assets in a true trustless setting.
 
-## Custom Active Authorities
+## 41 Custom Active Authorities
 
-### 1
+### 42
 
 Every account interacts with the BitShares Blockchain by means of signed
 transactions indicating the desired action of the user. This has the benefit
@@ -449,7 +454,7 @@ the downside that the user needs to secure the private key to create the
 signatures. A compromised private key likely result in permanent loss of
 the contained funds.
 
-### 2
+### 43
 
 Custom active authorities allow to create additional keys with specific
 purpose (everything else is prohibited), for example for users of the
@@ -459,9 +464,9 @@ of the restrictions what the key can do. This also enhances security for
 businesses that are running automated software for interaction with the
 blockchain by creating keys that only allow the intended use case.
 
-# Other
+# 44 Other
 
-## PUBLICLY APPROVED BITSHARES REPRESENTATIVE
+## 45 PUBLICLY APPROVED BITSHARES REPRESENTATIVE
 
 The distributed governance may
 result in certain aspects not being
@@ -475,7 +480,7 @@ Community in legal matters,
 including e.g. dealings with
 regulators and exchange listings.
 
-## HACK THE DEX - A BITSHARES BUG BOUNTY PROGRAM
+## 47 HACK THE DEX - A BITSHARES BUG BOUNTY PROGRAM
 
 The bug bounty program gives
 incentive to security researchers
@@ -484,7 +489,7 @@ vulnerabilities, and enhance the
 security of the Blockchain.
 Payouts are up to 25,000 bitUSD.
 
-## BITSHARES.ORG
+## 48 BITSHARES.ORG
 
 The initiative is a clear path
 to an updated, optimized and
@@ -497,9 +502,11 @@ businesses, completed with a
 monthly newsletter and fresh
 branding.
 
-# Getting back to the questions:
+# 49 Getting back to the questions:
 
-## IN YOUR OWN OPINION WHAT ARE THE ADVANTAGES OF THE BITUSD VERSUS OTHER SO CALLED “STABLECOINS” AND TETHER? THIS SEEMS TO BE A HOT TOPIC LATELY SINCE THE INCEPTION OF SO MANY DIFFERENT KINDS, WHAT MAKES YOUR OWN “SMARTCOIN” UNIQUE AND MORE USEFUL THAN ALL THE OTHERS TO CHOOSE FROM?
+## 50 IN YOUR OWN OPINION WHAT ARE THE ADVANTAGES OF THE BITUSD VERSUS OTHER SO CALLED “STABLECOINS” AND TETHER? THIS SEEMS TO BE A HOT TOPIC LATELY SINCE THE INCEPTION OF SO MANY DIFFERENT KINDS, WHAT MAKES YOUR OWN “SMARTCOIN” UNIQUE AND MORE USEFUL THAN ALL THE OTHERS TO CHOOSE FROM?
+
+## 51
 
 BitUSD and its siblings (BitCNY, BitEUR, etc.) are
 collateralized debt obligations and not minted
@@ -514,9 +521,9 @@ smart contracts (the loan agreement). That makes
 bitassets inherently more trustworthy than centralized
 “stablecoins”.
 
-## RECENTLY THERE IS A LOT OF TALK ABOUT BINANCE AND THEIR SO-CALLED “DEX” EXCHANGE. DO YOU THINK THIS WILL BE MAJOR COMPETITION SO TO SPEAK FOR BITSHARES?
+## 52 RECENTLY THERE IS A LOT OF TALK ABOUT BINANCE AND THEIR SO-CALLED “DEX” EXCHANGE. DO YOU THINK THIS WILL BE MAJOR COMPETITION SO TO SPEAK FOR BITSHARES?
 
-### 1
+### 53
 
 We very much welcome the initiative of Binance to take a step
 towards decentralization -- in fact the BitShares community
@@ -536,7 +543,7 @@ documentation, the Binance chain will allow non-custodial use
 of the core token BNB, with custodial colored coins (IOUs) for
 external tokens like BTC and BTS.
 
-### 2
+### 54
 
 The downside of a fully decentralized platform like the BitShares
 Blockchain is (oh the irony) the lack of a central authority that
@@ -545,7 +552,9 @@ budget. I suspect that a CEX will always have a bigger marketing
 budget than the BitShares Blockchain, and that is the key to
 onboarding the curious and new-in-crypto users.
 
-## IN YOUR OWN OPINION AFTER READING INTO THEIR EXCHANGE, DO YOU FEEL IT IS A TRUE “DEX” LIKE BITSHARES? IF NOT DO YOU THINK IT WILL HAVE ITS OWN STRENGTHS AND WEAKNESSES TO LESS “TECH-SAVVY” INDIVIDUALS NEWER TO BLOCKCHAIN TECHNOLOGY?
+## 55 IN YOUR OWN OPINION AFTER READING INTO THEIR EXCHANGE, DO YOU FEEL IT IS A TRUE “DEX” LIKE BITSHARES? IF NOT DO YOU THINK IT WILL HAVE ITS OWN STRENGTHS AND WEAKNESSES TO LESS “TECH-SAVVY” INDIVIDUALS NEWER TO BLOCKCHAIN TECHNOLOGY?
+
+## 56
 
 These days, the term “DEX” became very much
 a buzzword for marketing with only few people
@@ -553,7 +562,9 @@ understanding its meaning. So far, Binance’s DEX
 hasn’t launched and thus, we could only speculate on
 its success.
 
-## AS MAJOR MEDIA AND GENERAL AWARENESS ABOUT BLOCKCHAIN TECHNOLOGY INCREASES, IT BECOMES EASIER TO USE FOR THE AVERAGE PERSON. DO YOU FEEL THAT MOST PEOPLE COMING INTO THE MARKET OR ADAPTING TO IT WILL SEE THE BENEFITS OF A DEX OVER AN EXCHANGE LIKE BAKKT?
+## 57 AS MAJOR MEDIA AND GENERAL AWARENESS ABOUT BLOCKCHAIN TECHNOLOGY INCREASES, IT BECOMES EASIER TO USE FOR THE AVERAGE PERSON. DO YOU FEEL THAT MOST PEOPLE COMING INTO THE MARKET OR ADAPTING TO IT WILL SEE THE BENEFITS OF A DEX OVER AN EXCHANGE LIKE BAKKT?
+
+## 58
 
 Similar to the answers above, this really depends
 on market needs. There will always be markets that
@@ -565,7 +576,9 @@ trading environment for custom tokens the -- easiest,
 the cheapest and safest, provably and reliably since
 2015.
 
-## AS A FINAL QUESTION, DO YOU FEEL THERE IS A NEED FOR MORE AWARENESS ABOUT THE BENEFITS OF DEX’S AND HOW TRANSPARENCY AND COMMUNITIES LIKE BITSHARES CAN BENEFIT THE INDUSTRY?
+## 59 AS A FINAL QUESTION, DO YOU FEEL THERE IS A NEED FOR MORE AWARENESS ABOUT THE BENEFITS OF DEX’S AND HOW TRANSPARENCY AND COMMUNITIES LIKE BITSHARES CAN BENEFIT THE INDUSTRY?
+
+## 60
 
 We certainly agree with the sentiment of the questions.
 Additionally, to the need for more awareness (also on the
@@ -575,7 +588,9 @@ the MakerDAO concept of DAI and SAI evolved from the origins
 of bitsharestalk.org, a platform where the pros and cons of
 crypto collateralized loans (like bitUSD) are constantly discussed.
 
-## ONE LAST COMMENT, YOU WANTED TO HIGHLIGHT THE “SCAM” THING AND PUT THAT TO A REST, DO YOU HAVE ANY FURTHER COMMENTS ON THIS SUBJECT BEFORE WE’RE FINISHED?
+## 61 ONE LAST COMMENT, YOU WANTED TO HIGHLIGHT THE “SCAM” THING AND PUT THAT TO A REST, DO YOU HAVE ANY FURTHER COMMENTS ON THIS SUBJECT BEFORE WE’RE FINISHED?
+
+## 62
 
 There are articles and publications on the BitShares Blockchain
 now and then, and unfortunately there are sometimes comments
@@ -598,4 +613,4 @@ as their fundamental core technology. These businesses will
 soon leverage the true spirit of synergy as they are based on a
 common ledger.
 
-# Sponsored
+# 63 Sponsored
