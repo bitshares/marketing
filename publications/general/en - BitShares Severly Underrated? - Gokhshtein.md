@@ -1,6 +1,6 @@
 # 1 BitShares - Severly Underrated?
 
-## 2
+### 2
 Since the inception of BitShares in 2013, it has quietly
 been a major innovator in blockchain technology. But for
 the laymen and beginner in this sector, it is quite a lot to
@@ -18,7 +18,7 @@ whole.
 
 # 3 BACKGROUND
 
-## 4
+### 4
 So, traditionally companies run with a lot of human
 management, after all, people need to be there to oversee
 exactly what’s happening right? Well with the creation
@@ -37,7 +37,7 @@ a few people? It’s not, hence the word “distributed”. Since
 it is open source it can be spread across all of the token
 holder’s computers.
 
-## 5
+### 5
 
 In the original whitepaper put together by Daniel
 Larimer, Stan Larimer, Charles Hoskinson and
@@ -51,7 +51,7 @@ transaction of value”.
 
 # 6 SO ... THAT’S NICE. HOW DOES IT WORK THOUGH?
 
-## 7
+### 7
 
 Not very difficult to understand if explained
 correctly. I will attempt to do this, and if something
@@ -59,7 +59,7 @@ is over your head always feel free to consult the
 BitShares community directly as well as our own
 community if you need questions answered.
 
-## 8
+### 8
 
 BitShares employs DPOS or Delegated Proof-
 of-Stake. What this does, among other things,
@@ -83,7 +83,7 @@ the core token holders remain in control.
 
 # 9 BREAKING DOWN THE “VOTING SYSTEM”
 
-## 10
+### 10
 
 So, to keep things a little organized the representatives
 are not randomly selected from the total pool of users
@@ -98,7 +98,7 @@ voted off, and eventually others will get their turn. Incentive
 is paid as a small amount to them directly for having 99%
 uptime.
 
-## 11
+### 11
 
 Confused yet? Yeah me too. However, I think the best way
 to tell you how this works is to simply state that in a DPOS
@@ -115,7 +115,7 @@ with the fanciest mining equipment.
 
 # 12 THE AVERAGE STAKE-HOLDER
 
-## 13
+### 13
 
 The BitShares Blockchain features a built-in
 decentralized exchange (DEX) for all tokens
@@ -136,7 +136,7 @@ for what they propose to do like innovating the
 BitShares network as well as marketers that are
 paid in referral fees.
 
-## 14
+### 14
 
 Even with all of these roles, those that are simply
 just wanting to use the DEX are still considered
@@ -162,7 +162,7 @@ they are and do individually.
 
 # 15 IN CLOSING...
 
-## 16
+### 16
 If you are looking for more information on how to become
 a role-playing “witness” in the BitShares community they
 have very extensive documentation and I would like to
@@ -255,7 +255,7 @@ Blockchain technologies in Europe on a larger scale.
 
 ## 24 SO, AFTER DOING RESEARCH ON HOW MANY PEOPLE (WITNESSES) ARE IN CHARGE OF SECURING THE NETWORK, THE MINIMUM NUMBER IS 11? IS THIS STILL TRUE AND IS THERE A TECHNICAL OR LOGICAL EXPLANATION BY THAT SPECIFIC NUMBER?
 
-## 25
+### 25
 
 The BitShares Blockchain is secured by block producers
 (witnesses) that do exactly that (produce blocks). The
@@ -277,7 +277,7 @@ proxies) within less than 1 hour.
 
 ## 26 WITH BITSHARES 2.0, DOCUMENTATION STATES THAT “AS AN EXCHANGE YOU DON’T NEED TO EVER DEAL WITH ADDRESSES AGAIN”, I UNDERSTAND THE TECH BEHIND THIS, BUT IS THIS SOMETHING OTHER EXCHANGES BOTH DEX AND CENTRALIZED WILL BE ABLE TO UTILIZE? IS THIS BTS SPECIFIC AND HAVE ANY ENTITIES EXPRESSED INTEREST IN THIS? 
 
-## 27 
+### 27 
 
 This is a feature of blockchains based on the Graphene
 technology. Opinions here may vary since Graphene
@@ -468,7 +468,7 @@ blockchain by creating keys that only allow the intended use case.
 
 ## 45 PUBLICLY APPROVED BITSHARES REPRESENTATIVE
 
-## 46
+### 46
 
 The distributed governance may
 result in certain aspects not being
@@ -508,7 +508,7 @@ branding.
 
 ## 50 IN YOUR OWN OPINION WHAT ARE THE ADVANTAGES OF THE BITUSD VERSUS OTHER SO CALLED “STABLECOINS” AND TETHER? THIS SEEMS TO BE A HOT TOPIC LATELY SINCE THE INCEPTION OF SO MANY DIFFERENT KINDS, WHAT MAKES YOUR OWN “SMARTCOIN” UNIQUE AND MORE USEFUL THAN ALL THE OTHERS TO CHOOSE FROM?
 
-## 51
+### 51
 
 BitUSD and its siblings (BitCNY, BitEUR, etc.) are
 collateralized debt obligations and not minted
@@ -556,7 +556,7 @@ onboarding the curious and new-in-crypto users.
 
 ## 55 IN YOUR OWN OPINION AFTER READING INTO THEIR EXCHANGE, DO YOU FEEL IT IS A TRUE “DEX” LIKE BITSHARES? IF NOT DO YOU THINK IT WILL HAVE ITS OWN STRENGTHS AND WEAKNESSES TO LESS “TECH-SAVVY” INDIVIDUALS NEWER TO BLOCKCHAIN TECHNOLOGY?
 
-## 56
+### 56
 
 These days, the term “DEX” became very much
 a buzzword for marketing with only few people
@@ -566,7 +566,7 @@ its success.
 
 ## 57 AS MAJOR MEDIA AND GENERAL AWARENESS ABOUT BLOCKCHAIN TECHNOLOGY INCREASES, IT BECOMES EASIER TO USE FOR THE AVERAGE PERSON. DO YOU FEEL THAT MOST PEOPLE COMING INTO THE MARKET OR ADAPTING TO IT WILL SEE THE BENEFITS OF A DEX OVER AN EXCHANGE LIKE BAKKT?
 
-## 58
+### 58
 
 Similar to the answers above, this really depends
 on market needs. There will always be markets that
@@ -580,7 +580,7 @@ the cheapest and safest, provably and reliably since
 
 ## 59 AS A FINAL QUESTION, DO YOU FEEL THERE IS A NEED FOR MORE AWARENESS ABOUT THE BENEFITS OF DEX’S AND HOW TRANSPARENCY AND COMMUNITIES LIKE BITSHARES CAN BENEFIT THE INDUSTRY?
 
-## 60
+### 60
 
 We certainly agree with the sentiment of the questions.
 Additionally, to the need for more awareness (also on the
@@ -592,7 +592,7 @@ crypto collateralized loans (like bitUSD) are constantly discussed.
 
 ## 61 ONE LAST COMMENT, YOU WANTED TO HIGHLIGHT THE “SCAM” THING AND PUT THAT TO A REST, DO YOU HAVE ANY FURTHER COMMENTS ON THIS SUBJECT BEFORE WE’RE FINISHED?
 
-## 62
+### 62
 
 There are articles and publications on the BitShares Blockchain
 now and then, and unfortunately there are sometimes comments
