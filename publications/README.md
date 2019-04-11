@@ -11,4 +11,6 @@ Twitter
  - https://twitter.com/gokhshtein/status/1108352766580310017
 
 Article and Interview as PDF 
- - [BitShares Severly Underrated?](general/BitShares%20Severly%20Underrated%3F%20-%20Gokhshtein.pdf)
+ - [Fill Magazine Teaser - BitShares Severly Underrated?](general/en%20-%20BitShares%20Severly%20Underrated%20-%20Gokhshtein.pdf)  
+ - [English Featured - BitShares Severly Underrated?](general/en%20-%20Featured%20-%20BitShares%20Severly%20Underrated%20-%20Gokhshtein.pdf)
+ - [Chinese Featured - BitShares Severly Underrated?](general/zh%20-%20Featured%20-%20BitShares%20Severly%20Underrated%20-%20Gokhshtein.pdf)
