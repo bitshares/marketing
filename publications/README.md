@@ -1,6 +1,8 @@
 # Articles / Interviews
 
-## Cover feature in Gokhshtein - BitShares Severly Underrated? (March 2019)
+## BitShares Severly Underrated? (March 2019)
+
+**Cover feature in Gokhshtein**
 
 The article introduction and interview questions were written by Gokhshtein team, the answers and complete review was done by Blockchain Projects BV (Fabian Schuh and Stefan Schießl). Funded by [marketing worker](https://www.bitshares.foundation/workers/2019-02-marketing-interviews-articles-and-visibility).
 
@@ -19,7 +21,9 @@ Article and Interview as PDF
  - [English Featured - BitShares Severly Underrated?](general/en%20-%20BitShares%20Severly%20Underrated%20-%20Gokhshtein.pdf)
  - [Chinese Featured - BitShares Severly Underrated?](general/zh%20-%20Featured%20-%20BitShares%20Severely%20Underrated.pdf)
 
-## Article on FortuneJack - BITSHARES: A FULLY DECENTRALIZED PLATFORM & COMMUNITY (February 2019)
+## BitShares: A fully decentralized platform & community (February 2019)
+
+**Article on FortuneJack** 
 
 The questions were written by LordCatoshi (Telegram @Kattenkoning), the answers and review was done by Blockchain Projects BV (Fabian Schuh and Stefan Schießl). Special thanks to CryptoKong (Telegram @Cryptokong123) from the DEXBot team for establishing contact.
 
