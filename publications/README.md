@@ -27,6 +27,8 @@ Article and Interview as PDF
 
 **Article on FortuneJack** 
 
+![fortune_jack_banner](general/banner-bitshares-fortunejack.jpg)
+
 The questions were written by LordCatoshi (Telegram @Kattenkoning), the answers and review was done by Blockchain Projects BV (Fabian Schuh and Stefan Schießl). Special thanks to CryptoKong (Telegram @Cryptokong123) from the DEXBot team for establishing contact.
 
 Source
