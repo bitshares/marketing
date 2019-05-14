@@ -4,6 +4,8 @@
 
 **Cover feature in Gokhshtein**
 
+![gokhshtein_banner](general/banner-bitshares-gokhshtein.png)
+
 The article introduction and interview questions were written by Gokhshtein team, the answers and complete review was done by Blockchain Projects BV (Fabian Schuh and Stefan Schießl). Funded by [marketing worker](https://www.bitshares.foundation/workers/2019-02-marketing-interviews-articles-and-visibility).
 
 Source
@@ -11,7 +13,7 @@ Source
  - BitShares Exclusive Feature https://gokhshtein.com/product/bitshares-information/
  
 Advertisement (not exhaustive)
- - Available as print version e.g. at Boston BUIDL Hackathon, and 2050 conference
+ - Available as print version e.g. at Boston BUIDL Hackathon, and [2050 conference](general/2050-gokhshtein.jpg)
  - https://twitter.com/davidgokhshtein/status/1108110904330240000
  - https://twitter.com/gokhshtein/status/1108352766580310017
  - https://twitter.com/gokhshtein/status/1123301173325385730
