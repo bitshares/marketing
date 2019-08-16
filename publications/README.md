@@ -1,5 +1,13 @@
 # Articles / Interviews
 
+## AltcoinTradersHandbook (May 2019)
+
+**Coin Report #20: BitShares**
+
+https://www.altcointradershandbook.com/coin-report-bitshares/
+
+The article / coin review was sponsored by [DEXBot](https://www.dexbot.info/) and executed/organized by the [marketing worker](https://www.bitshares.foundation/workers/2019-02-marketing-interviews-articles-and-visibility). It is an analysis of BTS from a traders perspective.
+
 ## BitShares Severly Underrated? (March 2019)
 
 **Cover feature in Gokhshtein**
