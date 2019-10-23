@@ -41,3 +41,4 @@ The questions were written by LordCatoshi (Telegram @Kattenkoning), the answers 
 
 Source
  - https://fortunejack.com/blog/article/bitshares-a-fully-decentralized-platform-community
+ - https://medium.com/@hicryptocat/bitshares-a-fully-decentralized-platform-community-35ad109fb3ce
