@@ -23,36 +23,21 @@
 @keyframes flyToLeft {
   from {
     top: -54px;
-    left: 292px;
+    left: 30%;
   }
 
   to {
     top: -46px;
-    left: 130px;
+    left: 15.5%;
   }
-}
-
-@keyframes flyToRight {
-  from {
-    top: -181px;
-    left: 760px;
-  }
-
-  to {
-    top: -181px;
-    left: 801px;
-  }
-}
-
-body {
-  font-family: 'Tahoma';
-  cursor: pointer;
 }
 
 .container {
   width: 900px;
   height: 40px;
   background-color: #b9e4fa;
+    font-family: Arial, Helvetica, sans-serif;
+  cursor: pointer;
 }
 
 .container:hover {
@@ -98,7 +83,7 @@ body {
   font-size: 13px;
   color: #686566;
   position: relative;
-  left: 110px;
+  left: 11.5%;
 }
 
 .container:hover .meet-text {
@@ -127,7 +112,7 @@ body {
   color: #212020;
   position: relative;
   top: -80px;
-  left: 292px;
+  left: 30%;
   letter-spacing: -1.1px;
   animation: show 800ms 500ms both;
 }
@@ -136,15 +121,15 @@ body {
 	animation: flyToLeft 800ms forwards;
 }
 
-span {
+.and-text {
   display: none;
   font-size: 13px;
   color: #686566;
 }
 
-.container:hover span {
+.container:hover .and-text {
   display: inline;
-  animation: show 800ms 1000ms both;
+  animation: show 800ms 500ms both;
 }
 
 .subtitle-text {
@@ -153,7 +138,7 @@ span {
   position: relative;
   letter-spacing: -0.5px;
   top: -85px;
-  left: 373px;
+  left: 39.5%;
   animation: show 800ms 500ms both;
 }
 
@@ -167,13 +152,13 @@ span {
   color: #212020;
   position: relative;
   top: -73px;
-  left: 335px;
+  left: 38%;
   letter-spacing: 1px;
 }
 
 .container:hover .build-text {
   display: block;
-  animation: show 800ms 1000ms both;
+  animation: show 800ms 700ms both;
 }
 
 .date-text {
@@ -182,7 +167,7 @@ span {
   position: relative;
   letter-spacing: -0.5px;
   top: -111px;
-  left: 537px;
+  left: 60%;
   animation: show 800ms 500ms both;
 }
 
@@ -202,7 +187,7 @@ span {
 
 .container:hover .logo-bts-large {
   display: block;
-  animation: show 800ms 1000ms both;
+  animation: show 800ms 500ms both;
 }
 
 .button {
@@ -213,7 +198,7 @@ span {
   background-repeat: no-repeat;
   background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHsAAAAoCAYAAADe3YUmAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUxJREFUeNrsmzEOwjAMRW3E2I0ZwdhjwMgtGNg4ACOn4DxwDEZGJoQEB4CmKU2dtIIJUd4ThdSxXSe/aRciAgAAP4xaQ7bYTEV16rqKj7ov8SfucDYX3eyrfcX4VrFFc+C71cSX5cT2yiYtdQR9/lyNXzp3WYsm8rrcb46v9I2v1fRvyZsaY1RHy/gSYw/rOK3yg9V2mLgBls9jyzro30IeMCf/A2L/EUOmoJ+ss3xftXf34xyx+82MxzjvbEBsQGxAbEBsQGxAbEBsQGxAbEBsxAbEBsQGxAbEBsQGxAbEBsQGxAbEBkn/b/xQNUa362R8OS/rjXcFfsOfBBvcvFms7eUb22JfaW58C2xRXFCLduSy8U3f7lo0um7XGKTegNcyB5/PXWo+4lxhnNpcBu26E9ZZPnv+7FkTv83uflQe47yzAQAAAOCbPAQYAARfEvJzwZSjAAAAAElFTkSuQmCC);
   top: -139px;
-  left: 750px;
+  left: 769px;
   animation: show 800ms 500ms both;
 }
 
@@ -227,35 +212,29 @@ span {
   color: #fff;
   position: relative;
   top: -172px;
-  left: 760px;
+  left: 87.3%;
   animation: show 800ms 500ms both;
 }
 
 .container:hover .percentage-text {
-  animation: flyToRight 800ms forwards;
+  display: none;
 }
 
-.ticket-text, .offer-text-hover {
+.ticket-text {
   display: none;
   font-size: 14px;
   color: #fff;
 }
 
-.container:hover .ticket-text, .container:hover .offer-text-hover {
-  display: block;
-  animation: show 800ms 1000ms both;
+.container:hover .ticket-text {
+  display: inline;
+  animation: show 800ms 100ms both;
 }
 
 .ticket-text {
   position: relative;
-  top: -200px;
-  left: 760px;
-}
-
-.offer-text-hover {
-  position: relative;
-  top: -216px;
-  left: 848px;
+	top: -181px;
+	left: 87%;
 }
 
 .offer-text {
@@ -263,10 +242,23 @@ span {
   color: #fff;
   position: relative;
   top: -191px;
-  left: 809px;
+  left: 92%;
   animation: show 800ms 500ms both;
 }
 
 .container:hover .offer-text {
 	display: none;
+}
+
+.bts-link,
+.bts-link:hover,
+.bts-link:active,
+.bts-link:visited,
+.bts-link:focus,
+.promo,
+.promo:hover,
+.promo:active,
+.promo:visited,
+.promo:focus {
+    text-decoration:none;
 }
