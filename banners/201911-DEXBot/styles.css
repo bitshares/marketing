@@ -1,0 +1,349 @@
+.dexbot-ad {
+	width: 900px;
+	max-width: 900px;
+	min-width: 900px;
+	height: 42px;
+	max-height: 42px;
+	font-family: "Ubuntu";
+	padding: 0px;
+	position: relative;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	display: block;
+}
+.dexbot-ad-link {
+	position: absolute;
+	width: 100%;
+	z-index: 3;
+	height: 42px;
+	left: 0px;
+	top: 0px;
+	margin: 0px;
+	padding: 0px;
+	display: block;
+}
+.dexbot-con-rel {
+	padding: 0px;
+	height: 42px;
+	width: 100%;
+	background-color: #2a4241;
+	position: absolute;
+	top: 0px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	display: block;
+	max-height:42px;
+	overflow: hidden;
+	border-bottom-right-radius: 5px;
+	border-bottom-left-radius:  5px;
+}
+.dexbot-logobg {
+	position: absolute;
+	width: 51px;
+	height: 42px;
+	background-color: #FFCC00;
+	background-image: linear-gradient(#fee903, #fec003);
+	box-shadow: 2px 0px 3px 0px rgba(0,0,0,0.75);
+	left: -20px;
+	transition: 0.5s ease-in-out;
+	transform: skew(15deg);
+}
+.dexbot-logobg2 {
+	position: absolute;
+	width: 147px;
+	height: 42px;
+	background-color: #152B2A;
+	left: -20px;
+	transition: 0.5s ease-in-out;
+	transform: skew(15deg);
+}
+.dexbot-logobg3 {
+	position: absolute;
+	width: 154px;
+	height: 42px;
+	background-color: #152B2A;
+	right: -20px;
+	transition: 0.5s ease-in-out;
+	transform: skew(-15deg);
+}
+.dexbot-logobg4 {
+	position: absolute;
+	width: 129px;
+	height: 42px;
+	background-color: #FFCC00;
+	background-image: linear-gradient(#fee903, #fec003);
+	left: -2px;
+	transition: 0.5s ease-in-out;
+	transform: skew(15deg) scaleX(1);
+	transform-origin: 0% 0%;
+	opacity: 1;
+}
+.dexbot-logobg5 {
+	position: absolute;
+	width: 140px;
+	height: 42px;
+	background-color: #FFCC00;
+	background-image: linear-gradient(#fee903, #fec003);
+	right: 5px;
+	transition: 0.5s ease-in-out;
+	transform: skew(-15deg) scaleX(1);
+	transform-origin: 100% 100%;
+	opacity: 1;
+}
+.dexbot-logo {
+	background-image: url(https://i.ibb.co/VDxZczL/dexbot-logo.png);
+	position: absolute;
+	height: 42px;
+	width: 82px;
+	top: 0px;
+	left: 40px;
+	margin: 0px;
+	padding: 0px;
+	transition: 0.5s ease-in-out;
+	transform: scale(0.9);
+}
+.dexbot-logo3 {
+	background-image: url(https://i.ibb.co/WBKDxXq/bts-logo1.png);
+	position: absolute;
+	height: 42px;
+	width: 27px;
+	top: 0px;
+	left: 2px;
+	margin: 0px;
+	padding: 0px;
+	transition: 0.5s ease-in-out;
+	transform: scale(0.9);
+}
+.dexbot-sep1 {
+	position: absolute;
+	height: 38px;
+	width: 5px;
+	top: -2px;
+	left: 124px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #0099D6;
+	transform: skew(15deg, 35deg);
+	box-shadow: 2px 0px 3px 0px rgba(0,0,0,0.75);
+	display: none;
+}
+.dexbot-sep2 {
+	position: absolute;
+	height: 38px;
+	width: 3px;
+	bottom: -2px;
+	left: 132px;
+	margin: 0px;
+	padding: 0px;
+	background-color: #0099D6;
+	transform: skew(15deg, 35deg);
+	box-shadow: 2px 0px 3px 0px rgba(0,0,0,0.75);
+	display: none;
+}
+.dexbot-icon1 {
+	position: absolute;
+	height: 42px;
+	width: 87px;
+	left: 143px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(https://i.ibb.co/Syc8ndv/up.png);
+	top: 0px;
+	transition: 0.5s ease-in-out;
+	transition-delay: 0.4s;
+	transform: translateY(0);
+    opacity: 1;
+}
+.dexbot-icon2 {
+	position: absolute;
+	height: 42px;
+	width: 87px;
+	left: 671px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(https://i.ibb.co/c1M4yg2/down.png);
+	top: 0px;
+	transition: 0.5s ease-in-out;
+	transition-delay: 0.4s;
+	transform: translateY(0);
+    opacity: 1;
+}
+.dexbot-icon3 {
+	position: absolute;
+	height: 26px;
+	width: 36px;
+	left: 150px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(https://i.ibb.co/KbsWTt0/down2.png);
+	top: 2px;
+	transition: 0.5s ease-in-out;
+	transition-delay: 0.4s;
+	transform: translateY(0) rotate(0);
+    opacity: 1;
+}
+.dexbot-icon4 {
+	position: absolute;
+	height: 32px;
+	width: 36px;
+	left: 711px;
+	margin: 0px;
+	padding: 0px;
+	background-image: url(https://i.ibb.co/BVdJT0V/up1.png);
+	bottom: -5px;
+	transition: 0.5s ease-in-out;
+	transition-delay: 0.4s;
+	transform:translateY(0) rotate(0) ;
+    opacity: 1;
+}
+.dexbot-text1 {
+	position: absolute;
+	height: 38px;
+	width: 482px;
+	left: 209px;
+	margin: 0px;
+	padding: 0px;
+	top: 2px;
+	font-size: 20px;
+	text-align: center;
+	line-height: 38px;
+	font-weight: 900;
+	color: #EEEEEE;
+	text-shadow: 2px 2px 2px #000000;
+	transition: 0.5s ease-in-out;
+	transition-delay: 0.4s;
+	transform: scale(1);
+	opacity: 1;
+}
+.dexbot-text2 {
+	position: absolute;
+	height: 38px;
+	width: 613px;
+	left: 137px;
+	margin: 0px;
+	padding: 0px;
+	top: 2px;
+	font-size: 18px;
+	text-align: center;
+	line-height: 38px;
+	font-weight: 900;
+	color: #EEEEEE;
+	text-shadow: 2px 2px 2px #000000;
+	transition: 0.5s ease-in-out;
+	transition-delay: 0s;
+	transform: scale(0.5);
+	opacity: 0;
+}
+.dexbot-play {
+	height: 42px;
+	width: 132px;
+	right: -14px;
+	position: absolute;
+	line-height: 42px;
+	text-align: center;
+	top: 0px;
+	font-size: 13px;
+	font-weight: 900;
+	color: #133e79;
+	background-color: #FFCC00;
+	background-image: linear-gradient(#fee903, #fec003);
+	box-shadow: -1px 0px 2px 0px rgba(0,0,0,0.75);
+	margin: 0px;
+	padding: 0px;
+	transition: 0.5s ease-in-out;
+	transform: skew(-15deg);
+}
+.dexbot-play-text {
+	height: 42px;
+	width: 80px;
+	right: 32px;
+	position: absolute;
+	line-height: 42px;
+	text-align: center;
+	top: 0px;
+	font-size: 14px;
+	font-weight: 900;
+	color: #152B2A;
+	background-color: #FFCC00;
+	background-image: linear-gradient(#fee903, #fec003);
+	margin: 0px;
+	padding: 0px;
+	transition: 0.5s ease-in-out;
+	transform: translateX(10px);
+}
+.dexbot-play-arrow {
+	height: 25px;
+	width: 25px;
+	right: 8px;
+	position: absolute;
+	line-height: 42px;
+	text-align: center;
+	top: 8px;
+	font-size: 15px;
+	font-weight: 900;
+	color: #152B2A;
+	margin: 0px;
+	padding: 0px;
+	transition: 0.5s ease-in-out;
+	transform: translateX(-12px);
+	background-image: url(https://i.ibb.co/68Vh22s/dexbot-arrow.png);
+}
+.dexbot-ad:hover .dexbot-logo {
+    transform: scale(1);
+}
+
+.dexbot-ad:hover .dexbot-logo3 {
+    transform: scale(1);
+}
+
+.dexbot-ad:hover .dexbot-logobg4 {
+    transform: skew(15deg) scaleX(1.1);
+    transform-origin: 0% 0%;
+    opacity: 1;
+}
+.dexbot-ad:hover .dexbot-logobg5 {
+    transform: skew(-15deg) scaleX(1.1);
+    transform-origin: 100% 100%;
+    opacity: 1;
+}
+
+.dexbot-ad:hover .dexbot-icon1 {
+    transform: translateY(50px);
+    opacity: 0;
+	transition-delay: 0s;
+}
+.dexbot-ad:hover .dexbot-icon2 {
+    transform: translateY(-50px);
+    opacity: 0;
+	transition-delay: 0s;
+}
+.dexbot-ad:hover .dexbot-icon3 {
+    transform: translateY(-50px) rotate(360deg);
+    opacity: 0;
+	transition-delay: 0s;
+}
+.dexbot-ad:hover .dexbot-icon4 {
+    transform: translateY(50px) rotate(360deg);
+    opacity: 0;
+	transition-delay: 0s;
+}
+.dexbot-ad:hover .dexbot-text1 {
+    transform: scale(1.3);
+    opacity: 0;
+	transition-delay: 0s;
+}
+.dexbot-ad:hover .dexbot-text2 {
+    transform: scale(1);
+    opacity: 1;
+	transition-delay: 0.2s;
+}
+.dexbot-ad:hover .dexbot-play-text {
+    transform: translateX(0);
+}
+.dexbot-ad:hover .dexbot-play-arrow {
+    transform: translateX(0px);
+}
